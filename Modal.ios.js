@@ -5,8 +5,6 @@
 
 'use strict';
 
-var merge = require('merge');
-
 var React = require('react-native');
 var {
   View,
